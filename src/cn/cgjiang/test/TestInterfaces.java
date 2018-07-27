@@ -62,6 +62,7 @@ class Student implements Singer {
         System.out.println("student is sleeping");
     }
 
+
     public void study() {
         System.out.println("Studying...");
     }
